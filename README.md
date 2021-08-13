@@ -1,9 +1,6 @@
 
 # Phishmask
 
-<p align="center">
-	<img src="https://i.imgur.com/plp3lJu.jpg" width="600px" hight="100px">
-</p>
 
 [![version-2.0](https://img.shields.io/badge/Phishmask-2.0-green)](https://github.com/the-white-devil-01/Phishmask/releases/tag/2.0)	[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40KaliLinux_in)](https://twitter.com/KaliLinux_in)
 ### Author: https://github.com/the-white-devil-01
